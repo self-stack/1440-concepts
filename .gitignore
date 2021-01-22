@@ -1,3 +1,4 @@
 .DS_Store
 data/*.eml
 src/*.ipynb
+src/.ipynb_checkpoints
